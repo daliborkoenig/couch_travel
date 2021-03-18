@@ -92,12 +92,12 @@ button:focus {
 
 #mobile{
     width: 205px;
-    height: 281px;
+    height: 283px;
     background: url(./assets/background/background_1.jpg);
     background-size: 300% !important;
     background-position: center !important;
     position: absolute;
-    top: 30.5%;
+    top: 30.4%;
     right: 10%;
     z-index: 25;
 }
